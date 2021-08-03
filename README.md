@@ -10,11 +10,11 @@ As I continue to develop projects of increasing complexity, I have discovered li
 
  - [x] Initialize Repository
  - [x] ReadMe Preface
- - [ ] 
+ - [ ] Initialize ES4 Notes File
 
 ## Personal Milestones:
 
- - [ ] Begin Tufts ES4 
+ - [X] Begin Tufts ES4 
 	 - [ ] Compete my first project
  - [ ] Far Future Goals
 	 - [ ] Button Input to control PWM Servo Position
